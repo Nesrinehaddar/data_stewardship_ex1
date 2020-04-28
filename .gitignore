@@ -1,0 +1,17 @@
+/data
+!/data/raw
+
+/local
+
+.env
+.ipynb_checkpoints/
+
+# OSX Junk
+.DS_Store
+
+# test cache
+.cache/*
+__pycache__
+*.pytest_cache/
+/*.geojson
+/*.p
